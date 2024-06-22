@@ -4,7 +4,7 @@ title: 'Software Engineer Intern'
 company: 'MAXISIQ'
 location: 'Arlington, VA'
 range: 'August 2022 - Decemeber 2022 & May 2023 - August 2023'
-url: 'https://www.iomaxis.com/'
+url: 'https://www.maxisiq.com'
 ---
 
 - Contributed to a secure communication platform for a distributed network by creating virtual infrastructure for VMware using Rust, Python, and Docker

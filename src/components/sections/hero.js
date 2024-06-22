@@ -68,7 +68,7 @@ const Hero = () => {
         I’m a software engineer passionate about crafting exceptional products. I specialize in
         designing and building seamless, user-focused applications. Currently, I develop innovative
         solutions at{' '}
-        <a href="https://www.iomaxis.com/" target="_blank" rel="noreferrer">
+        <a href="https://www.maxisiq.com" target="_blank" rel="noreferrer">
           MAXISIQ
         </a>
         .

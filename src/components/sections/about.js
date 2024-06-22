@@ -142,18 +142,22 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">non-profit organization</a>,{' '}
-              <a href="https://starry.com/">a small business</a>, and an{' '}
-              <a href="https://www.apple.com/">e-commerce agency</a>. My main focus these days is
-              building accessible, inclusive products and digital experiences at{' '}
-              <a href="https://www.iomaxis.com/">MaxisIQ</a> for a variety of clients.
+              <a href="https://www.linkedin.com/company/jugaad-journey-foundation/">
+                non-profit organization
+              </a>
+              ,{' '}
+              <a href="https://www.google.com/maps/place/Stateline+Liquors/@42.4960267,-89.05125,17z/data=!3m1!4b1!4m6!3m5!1s0x8808a10fa9046a1f:0xf893226c73d01a89!8m2!3d42.4960228!4d-89.0486751!16s%2Fg%2F1tfshzzr?entry=ttu">
+                a small business
+              </a>
+              , and an{' '}
+              <a href="https://www.linkedin.com/company/ecomeliteconsulting/">e-commerce agency</a>.
+              My main focus these days is building accessible, inclusive products and digital
+              experiences at <a href="https://www.maxisiq.com/">MaxisIQ</a> for a variety of
+              clients.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                finished a new project
-              </a>{' '}
+              I also recently <a href="https://github.com/Ketu-Patel">finished a new project</a>{' '}
               that allows people to understand graph algorithms with a web app built using Node
               &amp; React.
             </p>

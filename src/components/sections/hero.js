@@ -37,7 +37,7 @@ const StyledHeroSection = styled.section`
 
   p {
     margin: 20px 0 0;
-    max-width: 540px;
+    max-width: 550px;
   }
 
   .email-link {
@@ -65,9 +65,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer intern specializing in building (and occasionally designing)
-        exceptional product experiences. Currently, I’m focused on building seamless, human-centered
-        products at{' '}
+        I’m a software engineer passionate about crafting exceptional products. I specialize in
+        designing and building seamless, user-focused applications. Currently, I develop innovative
+        solutions at{' '}
         <a href="https://www.iomaxis.com/" target="_blank" rel="noreferrer">
           MAXISIQ
         </a>
